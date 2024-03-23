@@ -1,19 +1,26 @@
 # Configure Service Level Agreements (SLAs)
 
-![62](https://github.com/melisa-er/Configure-Service-Level-Agreements-SLAs-/assets/157723219/70365789-989d-475b-966e-5e47e21010a6)
+<h3>Purpose</h3>
+
+- Configure Service Level Agreements (SLAs) on osTicket.
+
+#
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/62.png"/>
 
 SLAs are essentially a guarantee/contract by the support team to have a ticket resolved within a given time frame.
+
 We will be adding three new SLAs in this portion of the lab:
 - SEV-A,
 - SEV-B,
 - SEV-C
 
-Navigate to the Manage tab in the Admin Panel. 
+Navigate to the Manage tab in the Admin Panel.
+
 In the SLA section, click “Add New SLA Plan”.
 
 #
-![63](https://github.com/melisa-er/Configure-Service-Level-Agreements-SLAs-/assets/157723219/6bb2dc94-6e90-4058-9a66-9c5f929f3b20)
-![64](https://github.com/melisa-er/Configure-Service-Level-Agreements-SLAs-/assets/157723219/6b0d0a9a-9201-4156-9901-8fd1e34d3845)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/63.png"/>
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/64.png"/>
 
 Put “SEV-A” (Severity-A) in the NAME category, 1 for the Grace Period, and select “24/7” for the Schedule. Click “Add Plan”.
 
